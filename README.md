@@ -4,7 +4,7 @@ Hello 👋🙋‍♀️ 💻
 
 Hi, I´m Viviana. I´m a data scientist who is passionate about data, statistics and tech. 
 - 🤓 My work experience is related to data analysis and statistical research in orden to drive succesful problem solutions. 📉🖥 
-- 👩‍💻 I’m currently learning machine learning and progamming languages. 
+- 👩‍💻 I’m currently learning machine learning and programming.
 - ⚡ Fun fact: I´m afraid of darkness 👾
 
 You can find me: 🌎 
