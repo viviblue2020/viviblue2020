@@ -10,7 +10,7 @@ Hi, I´m Viviana. I´m a data scientist who is passionate about data, statistics
 You can find me: 🌎 
 - [Linkedin] (https://www.linkedin.com/in/vivianamarquezr/)
 - [Instagram] (https://www.instagram.com/vivibluemr/)
-- [Blog] (Coming soon) 
+- [Blog] (Coming soon) 👷‍♀️
 
 
 
