@@ -1,8 +1,8 @@
-Hello 👋🙋‍♀️ 💻
+**Hi Everyone! Welcome to Viviana Marquez's GitHub Profile** 👋🙋‍♀️ 💻
 
 ![fondogithub](https://user-images.githubusercontent.com/62452521/105530571-f7bb1100-5cb5-11eb-957e-2b4e0a0fe0a8.png)
 
-Hi, I´m Viviana. I´m a data scientist who is passionate about data, statistics and tech. 
+I´m Viviana. I´m a data scientist who is passionate about data, statistics and tech. 
 - 🤓 My work experience is related to data analysis and statistical research in orden to drive succesful problem solutions. 📉🖥 
 - 👩‍💻 I’m currently learning machine learning and programming.
 - ⚡ Fun fact: I´m afraid of darkness 👾
