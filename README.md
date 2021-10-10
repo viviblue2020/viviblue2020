@@ -2,9 +2,9 @@
 
 ![fondogithub](https://user-images.githubusercontent.com/62452521/105530571-f7bb1100-5cb5-11eb-957e-2b4e0a0fe0a8.png)
 
-I´m Viviana. I´m a data scientist who is passionate about data, statistics and tech. 
+I´m Viviana. I´m a Data Analyst and Statistician really passionate for Data Science and Machine Learning. 
 - 🤓 My work experience is related to data analysis and statistical research to drive successful problem solutions. 📉🖥 
-- 👩‍💻 I’m currently learning machine learning and programming.
+- 👩‍💻 I’m currently learning Machine Learning and Data Science.
 - ⚡ Fun fact: I´m afraid of darkness 👾
 
 You can find me: 🌎 
