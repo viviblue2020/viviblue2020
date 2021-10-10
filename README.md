@@ -12,7 +12,15 @@ You can find me: 🌎
 - [Instagram] (https://www.instagram.com/vivibluemr/)
 - [Blog] (Coming soon) 👷‍♀️
 
-
+<h2> Studies <h2/>
+<h3>National University of Chimborazo<h3/>
+(Ecuador)
+Accounting and Auditing
+ 
+<h3>National University of Cordoba<h3/>
+(Argentina) 
+Applied Statistics
+  
 
 <!--
 **viviblue2020/viviblue2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
