@@ -1,6 +1,6 @@
 **Hi Everyone! Welcome to Viviana Marquez's GitHub Profile** 👋🙋‍♀️ 💻
 
-![fondogithub](https://github.com/viviblue2020/viviblue2020/issues/2)
+![fondogithub](https://user-images.githubusercontent.com/62452521/136712541-7356f08a-1254-494c-b897-edbb38524398.jpg)
 
 I´m Viviana. I´m a Data Analyst and Statistician really passionate for Data Science and Machine Learning. 
 - 🤓 My work experience is related to data analysis and statistical research to drive successful problem solutions. 📉🖥 
