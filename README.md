@@ -16,7 +16,6 @@ You can find me: 🌎
 <h3>National University of Chimborazo</h3>
 (Ecuador)
 Accounting and Auditing
- 
 <h3>National University of Cordoba</h3>
 (Argentina) 
 Applied Statistics
