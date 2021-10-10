@@ -13,11 +13,11 @@ You can find me: 🌎
 - [Blog] (Coming soon) 👷‍♀️
 
 <h2> Studies <h2/>
-<h3>National University of Chimborazo<h3/>
+<h3>National University of Chimborazo</h3>
 (Ecuador)
 Accounting and Auditing
  
-<h3>National University of Cordoba<h3/>
+<h3>National University of Cordoba</h3>
 (Argentina) 
 Applied Statistics
   
