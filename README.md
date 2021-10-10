@@ -1,6 +1,6 @@
 **Hi Everyone! Welcome to Viviana Marquez's GitHub Profile** 👋🙋‍♀️ 💻
 
-![fondogithub](https://user-images.githubusercontent.com/62452521/105530571-f7bb1100-5cb5-11eb-957e-2b4e0a0fe0a8.png)
+![fondogithub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Frawonion-decisions&psig=AOvVaw2qhc7hOR9uDGe-Uu9bUUpS&ust=1633984838757000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjXzYDawPMCFQAAAAAdAAAAABAU)
 
 I´m Viviana. I´m a Data Analyst and Statistician really passionate for Data Science and Machine Learning. 
 - 🤓 My work experience is related to data analysis and statistical research to drive successful problem solutions. 📉🖥 
