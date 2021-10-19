@@ -46,6 +46,7 @@ SaturdaysAI Latam / ÉPICO / Sociedad Ecuatoriana de Estadística  <br>
 <h2> 📫 You can find me:</h2> <br>
 - 👉 [Linkedin] (https://www.linkedin.com/in/vivianamarquezr/) <br>
 - 👉 [Twitter]   @vivimarquezra  <br>
+- 👉 [E-mail] anabelmr20@gmail.com  <br>
 - 👉 [Blog] (Coming soon) 👷‍♀️  <br>
 
 <!--
