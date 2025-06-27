@@ -1,4 +1,4 @@
- <h1>🚀Data Analyst, Statistician, Accountant, <br> and Machine Learning student</h1> 
+ <h1>🚀Data Scientist, Statistician, Accountant, <br> and Machine Learning student</h1> 
 
 ![fondogithub](https://user-images.githubusercontent.com/62452521/136712541-7356f08a-1254-494c-b897-edbb38524398.jpg)
 
