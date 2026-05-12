@@ -3,39 +3,48 @@
 ![fondogithub](https://user-images.githubusercontent.com/62452521/136712541-7356f08a-1254-494c-b897-edbb38524398.jpg)
 
 <h2> About me  </h2> <br>
-👋 Hi, I´m Viviana Márquez. I´m a Data Analyst and Statistician really passionate for Data Science and Machine Learning. 
-- My work experience is related to data analysis and statistical research to drive successful problem solutions. 
-- I’m currently learning Machine Learning.
+👋 Hi, I´m Viviana Márquez. Data Scientist with experience in banking, credit risk modeling, and analytics for decision-making. Specialized in credit scoring, expected loss modeling, collections analytics, and predictive modeling across the credit lifecycle.
+Experienced in Python, SQL, R, and machine learning techniques applied to financial and business problems. Additional experience includes socio-economic data analysis, statistical modeling, ETL processes, and analytics projects for public and private sector initiatives.
+
+Strong background translating complex data into actionable insights for stakeholders and business teams. Currently expanding my skills in Spark and Databricks for scalable data processing and machine learning environments.
   
 <h2>👩‍💻 Programming languages and Technologies</h2> <br>
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Flask) <br>
 - R <br>
 - SQL <br>
-- Server <br>
 - Power BI <br>
-- SPSS <br>
-- GeoDa <br>
 - Databricks <br>
 - Google Colab <br>
 - Excel <br>
 
-<h2>📉 Knowledge</h2> <br>
-- OLAP Cubes <br>
-- Exploratory Data Analysis EDA <br>
-- Statistical Models (Linear Generalized Models like Logistic Regression; Linear Regression, Time Series, Spatial Econometrics, Experimental Design, etc) <br>
-- Sampling techniques <br>
-- Machine Learning Algorithms (Random Forest, XGBoost, Gaussian Naive Bayes, etc.) <br>
-- Natural Language Processing <br>
-- Visualization <br>
-- Communication of results <br>
+<h2>📉 Experience </h2> <br>
+- Developed credit scoring models for retail and corporate loan origination, validated through external regulatory processes.
+- Built Expected Loss models for multiple portfolios used in provisioning estimation.
+- Designed collections models and analytics strategies to support portfolio recovery and business decision-making.
+- Automated analytical processes using SQL and Power BI dashboards.
+- Applied statistical and machine learning techniques across the credit risk lifecycle: origination, behavior, and collections.
+- Designed and executed ETL processes integrating data from multiple sources.
+
+<h2>📉 Machine Learning & Statistical Techniques </h2> <br>
+Random Forest, XGBoost, Regularized Logistic Regression (Lasso, Ridge, Elastic Net), Linear Regression, Clustering, 
+A/B Testing, Simulation Scenarios, Feature Engineering, Predictive Modeling, Statistical Modeling, 
+Time Series Analysis, Exploratory Data Analysis (EDA), Model Validation, Experimental Design. 
+Sampling techniques.
+
+Communicated analytical findings, model performance, and business insights to stakeholders 
+and management teams to support data-driven decision-making.
+
 <h2>🌱 Studies </h2> <br> 
-<h3> 📚 1.Accounting and Auditing </h3>
-National University of Chimborazo  <br>
-(Ecuador, 2012) 
-<br>
+
 <h3> 📚2 .Applied Statistics</h3>  <br>
 National University of Cordoba  <br>
 (Argentina, 2020) 
+
+<h3> 📚 1.Accounting and Auditing </h3>
+National University of Chimborazo  <br>
+(Ecuador, 2014) 
+<br>
+
 
 <h3> 📚 3.Machine Learning</h3>  <br>
 SaturdaysAI Latam / ÉPICO / Sociedad Ecuatoriana de Estadística  <br>
@@ -44,8 +53,7 @@ SaturdaysAI Latam / ÉPICO / Sociedad Ecuatoriana de Estadística  <br>
  - 🌱 I’m also learning Spark and Apache Airflow.
 
 <h2> 📫 You can find me:</h2> <br>
-- 👉 [Linkedin] (https://www.linkedin.com/in/vivianamarquezr/) <br>
-- 👉 [Twitter]   @vivimarquezra  <br>
+- 👉 [Linkedin] (https://www.linkedin.com/in/vivianamarquezram/) <br>
 - 👉 [E-mail] anabelmr20@gmail.com  <br>
 - 👉 [Blog] (Coming soon) 👷‍♀️  <br>
 
@@ -63,4 +71,5 @@ Here are some ideas to get you started:
  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👉 [Twitter]   @vivimarquezra  <br>
 -->
