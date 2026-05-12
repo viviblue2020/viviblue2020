@@ -1,4 +1,5 @@
- <h1>🚀Data Scientist, Statistician, Accountant, <br> and Machine Learning student</h1> 
+ <h1>🚀Data Scientist | Credit Risk & Banking Analytics |  <br> 
+  Credit Scoring, Expected Loss, Collections | Python, SQL, Spark | Data Analyst </h1> 
 
 ![fondogithub](https://user-images.githubusercontent.com/62452521/136712541-7356f08a-1254-494c-b897-edbb38524398.jpg)
 
@@ -19,19 +20,19 @@ Strong background translating complex data into actionable insights for stakehol
 
 <h2>📉 Experience </h2> <br>
 - Developed credit scoring models for retail and corporate loan origination, validated through external regulatory processes.
-- Built Expected Loss models for multiple portfolios used in provisioning estimation.
+- Built Expected Loss models for multiple portfolios used in provisioning estimation (PD, EAD, LGD, PE).
 - Designed collections models and analytics strategies to support portfolio recovery and business decision-making.
 - Automated analytical processes using SQL and Power BI dashboards.
 - Applied statistical and machine learning techniques across the credit risk lifecycle: origination, behavior, and collections.
 - Designed and executed ETL processes integrating data from multiple sources.
 
 <h2>📉 Machine Learning & Statistical Techniques </h2> <br>
-Random Forest, XGBoost, Regularized Logistic Regression (Lasso, Ridge, Elastic Net), Linear Regression, Clustering, 
-A/B Testing, Simulation Scenarios, Feature Engineering, Predictive Modeling, Statistical Modeling, 
-Time Series Analysis, Exploratory Data Analysis (EDA), Model Validation, Experimental Design. 
+Random Forest, XGBoost, Regularized Logistic Regression (Lasso, Ridge, Elastic Net), Linear Regression,  <br>
+Clustering, A/B Testing, Simulation Scenarios, Feature Engineering, Predictive Modeling, Statistical Modeling, <br>
+Time Series Analysis, Exploratory Data Analysis (EDA), Model Validation, Experimental Design. <br>
 Sampling techniques.
 
-Communicated analytical findings, model performance, and business insights to stakeholders 
+*Communicated analytical findings*, model performance, and business insights to stakeholders 
 and management teams to support data-driven decision-making.
 
 <h2>🌱 Studies </h2> <br> 
